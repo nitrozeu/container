@@ -1,0 +1,56 @@
+{
+  "first_name": "demo",
+  "last_name": "demo",
+  "patient_id": "601bda701196321aa047b4d3",
+  "location": "ksks",
+  "lims_id": "234233465",
+  "sample_info": [
+    {
+      "sample_id": "12113048",
+      "sample_type": "",
+      "DNA_quant": "",
+      "RNA_quant": "",
+      "Description": "Intron-Saglik",
+      "workflow_info": [
+        {
+          "run_id": "6044a6512fc6d7307ca0367c",
+          "run_sample_id": "6130c5891b37b3f4daeb6da3",
+          "resource_path": "/mnt/projectX/27_new_pull_apr15/Database_NCGM/src/resources",
+          "workflow_name": "workflow_july14",
+          "run_folder_json_path": "/mnt/projectX/27_new_pull_apr15/Database_NCGM/public/uploads/run_sample_file/6024f2fcdb6306e5f13e361a/1630586226/run.json",
+          "virtual_bed_file_path": "/mnt/projectX/27_new_pull_apr15/Database_NCGM/public/workFlow/60eee83109e46af5357d8341/Twist_Exome_RefSeq_targets.ucsc_hg19_liftover_modified_10bps_padding.bed",
+          "date_of_workflow": "2021-09-02",
+          "executed_by_user": "vijay lakhujani",
+          "status": "",
+          "panel_id": "60eee80b09e46af5357d8339",
+          "panel_name": "test_panel_Jul14",
+          "backbone": "Germline_targeted",
+          "created_by": "vijay lakhujani",
+          "creation_date": "2021-09-02",
+          "target_bed_file_path": "/mnt/projectX/27_new_pull_apr15/Database_NCGM/public/panel/60eee80b09e46af5357d8339/Twist_Exome_RefSeq_targets.ucsc_hg19_liftover_modified_10bps_padding.bed",
+          "hotspot_file_path": "/mnt/projectX/27_new_pull_apr15/Database_NCGM/public/workFlow/60eee83109e46af5357d8341/Twist_Exome_RefSeq_targets.ucsc_hg19_liftover_modified_10bps_padding.bed",
+          "annotation_database": "data",
+          "interval_padding": 0,
+          "chemistry": "Amplicon",
+          "adapter_file": "/mnt/projectX/27_new_pull_apr15/Database_NCGM/public/workFlow/60eee83109e46af5357d8341/adapter.fasta",
+          "trim_poly_g": "Yes",
+          "minimum_read_length_to_retain": 100,
+          "is_shareable": "Yes",
+          "cnv_calling": "Yes",
+          "select_pre_existing_models_file": "",
+          "pre_existing_models_file_path": "",
+          "attempt_run_time_model_file_creation": "",
+          "select_custom_models_file": "",
+          "custom_models_file_path": "",
+          "use_models_based_on_knn": "",
+          "number_of_nearest_neighbors": "",
+          "cnv_sensitivity": "HIGH",
+          "reference_genome": "hg19"
+        }
+      ]
+    }
+  ],
+  "informatics_workflow_id": "6130c5891b37b3f4daeb6da8",
+  "wetlab_workflow_id": "6130c5891b37b3f4daeb6dac",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjAyNGYyZmNkYjYzMDZlNWYxM2UzNjFhIiwiZmlyc3RfbmFtZSI6InZpamF5IiwibGFzdF9uYW1lIjoibGFraHVqYW5pIiwib3JnX2lkIjoiNjA5NGUyYzliNTUyMmFiYzBmZWY3NDBkIiwib3JnX2xlZ2FsX25hbWUiOiJOZXViZXJnIFN1cHJhdGVjaCIsIm9yZ19jb2RlIjoiZXJuLWUtIiwiaWF0IjoxNjMwNTg2MjIwLCJleHAiOjE2MzA3NTkwMjB9.caxi3kPH4Mq4YkroT4u9JftsulwfOpKaLWlkCx3V0JI"
+}
